@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Application-Performance-Diagnostics"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Application-Performance-Diagnostics?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Application-Performance-Diagnostics/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Application-Performance-Diagnostics?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Application-Performance-Diagnostics/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Application-Performance-Diagnostics?color=blue" alt="License"/></a>
@@ -41,9 +40,9 @@ Welcome to the definitive, high-authority curated directory of **application per
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-- [📊 Star History](#-star-history)
 - [🤝 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📊 Star History](#star-history)
 
 ---
 
@@ -131,19 +130,13 @@ Contributions are actively welcomed! Follow these guidelines to suggest new perf
 
 ---
 
-## 📊 Star History 📈
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Application-Performance-Diagnostics&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Application-Performance-Diagnostics&type=date&legend=top-left)
-
----
-
 ## 🤝 Support & Sponsorship ☕
 
-If this performance diagnostics guide helps your team optimize latency and debug production incidents:
+Thank you for exploring and using this Application Performance Diagnostics ecosystem guide! Your support helps keep this directory updated with the latest APM, profiling, and observability technologies. If you find this repository valuable:
 
-- ⭐ **Star** this repository on GitHub!
-- 🔀 **Fork** and share with fellow DevOps, SRE, and software engineers.
-- ☕ **Sponsor**: Support ongoing curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star** this repository on GitHub to help increase its visibility!
+- 🔀 **Fork & Share** with your fellow DevOps engineers, SREs, and software architects.
+- ☕ **Buy Me a Coffee**: Consider sponsoring and supporting ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
@@ -152,6 +145,11 @@ If this performance diagnostics guide helps your team optimize latency and debug
 - Community-curated resource for informational purposes — not an explicit endorsement. ℹ️
 - Pricing data and free tier quotas represent starting standard plans as of October 2026. 📅
 - Open-source tools require self-hosted infrastructure (ClickHouse, Kubernetes, eBPF support). Test telemetry collection in a staging environment before production deployment. 🔍
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Application-Performance-Diagnostics&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Application-Performance-Diagnostics&type=date&legend=top-left)
 
 ---
 
