@@ -70,52 +70,52 @@ The global **Application Performance Monitoring (APM) & Observability market** i
 
 ## 🔓 Open-Source GitHub Projects 🌾
 
-*Sorted by GitHub Star Counts (Descending)* 🌟
+*Sorted by GitHub Stars_Counts (Descending)* 🌟
 
 - **[Netdata](https://github.com/netdata/netdata)** [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)  
-  **Real-time infrastructure & application performance monitoring**, GPL-3.0 licensed. **73K+ GitHub stars** — Per-second telemetry collection, low latency metrics visualization, ML anomaly detection, and zero-configuration auto-discovery for Linux, Docker, and Kubernetes ⚡.
+  **Real-time infrastructure & application performance monitoring**, GPL-3.0 licensed. **73K+ GitHub_Stars** — Per-second telemetry collection, low latency metrics visualization, ML anomaly detection, and zero-configuration auto-discovery for Linux, Docker, and Kubernetes ⚡.
 
 - **[Apache SkyWalking](https://github.com/apache/skywalking)** [![Stars](https://img.shields.io/github/stars/apache/skywalking?style=social&color=white)](https://github.com/apache/skywalking/stargazers)  
-  **Application Performance Monitor & Observability platform**, Apache-2.0 licensed. **24.5K+ GitHub stars** — CNCF Graduated project supporting microservices tracing, service mesh telemetry, eBPF continuous profiling, and log aggregation 🌌.
+  **Application Performance Monitor & Observability platform**, Apache-2.0 licensed. **24.5K+ GitHub_Stars** — CNCF Graduated project supporting microservices tracing, service mesh telemetry, eBPF continuous profiling, and log aggregation 🌌.
 
 - **[SigNoz](https://github.com/SigNoz/signoz)** [![Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
-  **Open-source Datadog alternative powered by OpenTelemetry**, Apache-2.0 licensed. **22.5K+ GitHub stars** — Unified APM metrics, traces, and logs backed by ClickHouse for ultra-fast high-cardinality debugging 📊.
+  **Open-source Datadog alternative powered by OpenTelemetry**, Apache-2.0 licensed. **22.5K+ GitHub_Stars** — Unified APM metrics, traces, and logs backed by ClickHouse for ultra-fast high-cardinality debugging 📊.
 
 - **[Jaeger](https://github.com/jaegertracing/jaeger)** [![Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)  
-  **End-to-end distributed tracing platform created by Uber**, Apache-2.0 licensed. **21.5K+ GitHub stars** — CNCF Graduated standard for tracking complex transaction flows, dependency graph analysis, and root cause diagnostics 🕵️.
+  **End-to-end distributed tracing platform created by Uber**, Apache-2.0 licensed. **21.5K+ GitHub_Stars** — CNCF Graduated standard for tracking complex transaction flows, dependency graph analysis, and root cause diagnostics 🕵️.
 
 - **[OpenObserve](https://github.com/openobserve/openobserve)** [![Stars](https://img.shields.io/github/stars/openobserve/openobserve?style=social&color=white)](https://github.com/openobserve/openobserve/stargazers)  
-  **Cloud-native observability platform built in Rust**, Apache-2.0 licensed. **16.5K+ GitHub stars** — High-performance logs, metrics, traces, and RUM engine achieving up to 140x lower storage costs than traditional search indices 🌊.
+  **Cloud-native observability platform built in Rust**, Apache-2.0 licensed. **16.5K+ GitHub_Stars** — High-performance logs, metrics, traces, and RUM engine achieving up to 140x lower storage costs than traditional search indices 🌊.
 
 - **[Pinpoint](https://github.com/pinpoint-apm/pinpoint)** [![Stars](https://img.shields.io/github/stars/pinpoint-apm/pinpoint?style=social&color=white)](https://github.com/pinpoint-apm/pinpoint/stargazers)  
-  **APM for large-scale distributed Java/PHP/Python architectures**, Apache-2.0 licensed. **13.8K+ GitHub stars** — Real-time transaction map, active thread count monitoring, and bytecode instrumentation for microservice topology 📍.
+  **APM for large-scale distributed Java/PHP/Python architectures**, Apache-2.0 licensed. **13.8K+ GitHub_Stars** — Real-time transaction map, active thread count monitoring, and bytecode instrumentation for microservice topology 📍.
 
 - **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** [![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
-  **Vendor-neutral telemetry processing engine**, Apache-2.0 licensed. **13.2K+ GitHub stars** — CNCF core telemetry agent for receiving, transforming, filtering, and exporting traces, metrics, and logs across vendor backends 🔭.
+  **Vendor-neutral telemetry processing engine**, Apache-2.0 licensed. **13.2K+ GitHub_Stars** — CNCF core telemetry agent for receiving, transforming, filtering, and exporting traces, metrics, and logs across vendor backends 🔭.
 
 - **[Grafana Pyroscope](https://github.com/grafana/pyroscope)** [![Stars](https://img.shields.io/github/stars/grafana/pyroscope?style=social&color=white)](https://github.com/grafana/pyroscope/stargazers)  
-  **Continuous profiling platform for production code**, AGPL-3.0 licensed. **9.2K+ GitHub stars** — Minimal overhead CPU/memory flame graph profiler integrating seamlessly with Grafana dashboards ────────🔥.
+  **Continuous profiling platform for production code**, AGPL-3.0 licensed. **9.2K+ GitHub_Stars** — Minimal overhead CPU/memory flame graph profiler integrating seamlessly with Grafana dashboards ────────🔥.
 
 - **[Grafana Tempo](https://github.com/grafana/tempo)** [![Stars](https://img.shields.io/github/stars/grafana/tempo?style=social&color=white)](https://github.com/grafana/tempo/stargazers)  
-  **High-scale, cost-effective distributed tracing backend**, AGPL-3.0 licensed. **7.8K+ GitHub stars** — Object-storage native tracing database using TraceQL query engine for massive span volume 📈.
+  **High-scale, cost-effective distributed tracing backend**, AGPL-3.0 licensed. **7.8K+ GitHub_Stars** — Object-storage native tracing database using TraceQL query engine for massive span volume 📈.
 
 - **[Pixie](https://github.com/pixie-io/pixie)** [![Stars](https://img.shields.io/github/stars/pixie-io/pixie?style=social&color=white)](https://github.com/pixie-io/pixie/stargazers)  
-  **eBPF-powered no-instrumentation Kubernetes observability**, Apache-2.0 licensed. **6.8K+ GitHub stars** — CNCF Sandbox project capturing network flows, application latency, and flame graphs instantly without code edits 🔮.
+  **eBPF-powered no-instrumentation Kubernetes observability**, Apache-2.0 licensed. **6.8K+ GitHub_Stars** — CNCF Sandbox project capturing network flows, application latency, and flame graphs instantly without code edits 🔮.
 
 - **[Parca](https://github.com/parca-dev/parca)** [![Stars](https://img.shields.io/github/stars/parca-dev/parca?style=social&color=white)](https://github.com/parca-dev/parca/stargazers)  
-  **Continuous profiling for application & infrastructure performance**, Apache-2.0 licensed. **4.6K+ GitHub stars** — eBPF & DWARF debug-info based CPU and memory continuous profiler identifying resource bottlenecks 🧬.
+  **Continuous profiling for application & infrastructure performance**, Apache-2.0 licensed. **4.6K+ GitHub_Stars** — eBPF & DWARF debug-info based CPU and memory continuous profiler identifying resource bottlenecks 🧬.
 
 - **[Coroot](https://github.com/coroot/coroot)** [![Stars](https://img.shields.io/github/stars/coroot/coroot?style=social&color=white)](https://github.com/coroot/coroot/stargazers)  
-  **Zero-instrumentation APM powered by eBPF**, Apache-2.0 licensed. **4.2K+ GitHub stars** — Autonomous root cause identification, network map visualization, and continuous performance telemetry 🎯.
+  **Zero-instrumentation APM powered by eBPF**, Apache-2.0 licensed. **4.2K+ GitHub_Stars** — Autonomous root cause identification, network map visualization, and continuous performance telemetry 🎯.
 
 - **[Uptrace](https://github.com/uptrace/uptrace)** [![Stars](https://img.shields.io/github/stars/uptrace/uptrace?style=social&color=white)](https://github.com/uptrace/uptrace/stargazers)  
-  **OpenSource APM tool using OpenTelemetry & ClickHouse**, BSD-2-Clause licensed. **3.8K+ GitHub stars** — High-efficiency trace visualization, SQL-like querying, and distributed span aggregation 📉.
+  **OpenSource APM tool using OpenTelemetry & ClickHouse**, BSD-2-Clause licensed. **3.8K+ GitHub_Stars** — High-efficiency trace visualization, SQL-like querying, and distributed span aggregation 📉.
 
 - **[Hypertrace](https://github.com/hypertrace/hypertrace)** [![Stars](https://img.shields.io/github/stars/hypertrace/hypertrace?style=social&color=white)](https://github.com/hypertrace/hypertrace/stargazers)  
-  **Distributed tracing & application observability platform**, Apache-2.0 licensed. **1.2K+ GitHub stars** — Real-time payload inspection, API performance tracking, and service topology mapping 🔗.
+  **Distributed tracing & application observability platform**, Apache-2.0 licensed. **1.2K+ GitHub_Stars** — Real-time payload inspection, API performance tracking, and service topology mapping 🔗.
 
 - **[Guider](https://github.com/iipeace/guider)** [![Stars](https://img.shields.io/github/stars/iipeace/guider?style=social&color=white)](https://github.com/iipeace/guider/stargazers)  
-  **Unified Linux & Android performance diagnostics analyzer**, GPL-2.0 licensed. **1.1K+ GitHub stars** — System-wide microsecond-level thread execution profiling, flame graphs, and kernel event logging 🐧.
+  **Unified Linux & Android performance diagnostics analyzer**, GPL-2.0 licensed. **1.1K+ GitHub_Stars** — System-wide microsecond-level thread execution profiling, flame graphs, and kernel event logging 🐧.
 
 ---
 
@@ -125,7 +125,7 @@ Contributions are actively welcomed! Follow these guidelines to suggest new perf
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Edit `README.md`**, preserving the descending order and markdown table formatting.
-3. 🔗 Include official links, accurate company size/valuation, specific starting prices, exact free tier limits, and GitHub star badges.
+3. 🔗 Include official links, accurate company size/valuation, specific starting prices, exact free tier limits, and GitHub Stars_Badges.
 4. 🚀 Open a **Pull Request** detailing your additions!
 
 ---
